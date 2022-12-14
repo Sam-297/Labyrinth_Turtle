@@ -1,5 +1,5 @@
 # S1-Labyrinth
-This is my first university project.
+This is my first university project, coded with GigaJdzz.
 To launch, please download all the files, and execute the file 'ProgrammePrincipal'.
 All the .laby files are samples to try the program on.
 To create your own labyrinth, use '#' for walls, '.' for the way, 'x' for the starting point and 'X' for the ending point.
