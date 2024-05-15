@@ -1,5 +1,5 @@
 # Turtle Labyrinth Game
-This is my first university project, coded with GigaJdzz.
+This is my first project, coded with GigaJdzz.
 It's a labyrinth game coded in Python with the Turtle Library.
 
 This program features both manual navigation using the arrow keys and an automatic pathfinding algorithm.
